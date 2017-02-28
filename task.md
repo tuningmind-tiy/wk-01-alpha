@@ -16,14 +16,14 @@
 
    ## Criteria
      - appropriate git commits are made –at an absolute minimum– including:
-       - [ ] the empty repo
-       - [ ] the final repo
+       - [x] the empty repo
+       - [x] the final repo
      - the html page must include:
-       - [ ] at least two heading levels
-       - [ ] a paragraph
-       - [ ] an image
-       - [ ] a link
-       - [ ] a list with _**OR**_ w/o bullets
+       - [x] at least two heading levels
+       - [x] a paragraph
+       - [x] an image
+       - [x] a link
+       - [x] a list with _**OR**_ w/o bullets
 
 12. Submit 
    - the GitHub repo url in the "Assignment URL" field below 
