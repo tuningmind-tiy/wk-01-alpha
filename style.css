@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+header {
+  display: block;
+  background-image: url("./img/shire.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+}
+.bagend {
+  background-color: #DDA0DD;
+}
+.shire {
+  background-color: #D8BFD8;
+}
+.ring {
+  background-color: #FAEBD7;
+}
+.gandalf {
+  background-color: #BDB76B;
+}
+.gollum {
+  background-color: #6A5ACD;
+}
