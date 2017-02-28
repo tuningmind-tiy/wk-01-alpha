@@ -20,13 +20,13 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
 - Add styling including at least one instance for each of these **properties**:
  - [x] width
  - [ ] height
- - [ ] display
+ - [x] display
  - [ ] margin
  - [ ] padding
  - [ ] border
  - [ ] border-radius
  - [x] background-color
- - [ ] background-image
+ - [x] background-image
  - [ ] color
  - [ ] font-size
  - [ ] font-style
@@ -35,7 +35,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
  - [ ] text-decoration
 - Use the following measurements at least once:
  - [ ] px
- - [ ] %
+ - [x] %
  - [ ] rem
  - [ ] em
 - [ ] Modify each of the four different anchor states

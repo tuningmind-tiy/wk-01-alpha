@@ -8,7 +8,7 @@ img {
 header {
   display: block;
   background-image: url("./img/shire.jpg");
-  background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
   height: auto;
 }
