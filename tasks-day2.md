@@ -36,8 +36,8 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
 - Use the following measurements at least once:
  - [x] px
  - [x] %
- - [ ] rem
- - [ ] em
+ - [x] rem
+ - [x] em
 - [ ] Modify each of the four different anchor states
 - Make
  - [ ] small and frequent git commits
