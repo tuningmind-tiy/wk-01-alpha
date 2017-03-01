@@ -97,3 +97,15 @@ p {
 #ring ul li {
   color: black;
 }
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: red;
+}
+a:focus {
+  background-color: yellow;
+}
+a:active {
+  background-color: white;
+}
