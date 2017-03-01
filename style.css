@@ -1,10 +1,32 @@
 body {
   width: 100%;
 }
+div, h1, h2, h3, p, img, main, ul {
+  margin: 0;
+}
 img {
   width: 100%;
   height: auto;
 }
+body {
+  margin: 0;
+  border: 0;
+  text-align: center;
+}
+div {
+  height: 500px;
+}
+p {
+  background-color: #556B2F;
+  opacity: 0.9;
+  width: 50%;
+  padding: 50px;
+  border: 1px solid black;
+}
+span {
+  font-style: italic;
+}
+
 header {
   display: block;
   background-image: url("./img/shire.jpg");
@@ -12,18 +34,59 @@ header {
   width: 100%;
   height: auto;
 }
+ul li {
+  list-style-type: none;
+}
+p {
+  border-radius: 10px;
+}
 .bagend {
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-image: url("./img/bag_end.png");
+}
+.bagend h2 {
+  font-family: cursive;
   background-color: #DDA0DD;
 }
+.bagend p {
+  color: black;
+  font-family: fantasy;
+  font-size: 18px;
+  float: right;
+}
+.bagend img {
+  border-radius: 50%;
+  width: 30%;
+  height: auto;
+  display: block;
+}
 .shire {
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
   background-color: #D8BFD8;
+  background-image: url("./img/shire_map.jpg");
+  font-weight: 800;
 }
 .ring {
   background-color: #FAEBD7;
 }
+.ring img {
+  width: 30%;
+  border-radius: 50%;
+}
 .gandalf {
-  background-color: #BDB76B;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-image: url("./img/gandalf.png");
 }
 .gollum {
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
   background-color: #6A5ACD;
+  background-image: url("./img/gollum_sm.jpeg");
 }
