@@ -9,13 +9,13 @@ Today you're going to start styling your "wk-01-alpha" project from yesterday. W
 Add a new "tasks-day2.md" file with the following tasks and then complete those tasks. (Remember to make small and frequent commits :wink:!)
 _**All Wizardering Levels**_
 Without worrying about positioning, have fun styling your "wk-01-alpha" project, just ensure that you:
-- [ ] Include css in each of the three possible ways: imported, style element, embedded.
+- [x] Include css in each of the three possible ways: imported, style element, embedded.
 - Apply styles based on the following selectors and selector combinations:
  - [x] element
  - [x] class
- - [ ] id
+ - [x] id
  - [x] distinct nested element and class combination (i.e. if applied to element
- - [ ] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
+ - [x] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
  - [x] shared styles (e.g. `p, a`)
 - Add styling including at least one instance for each of these **properties**:
  - [x] width

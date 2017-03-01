@@ -6,7 +6,7 @@ div, h1, h2, h3, p, img, main, ul {
 }
 img {
   width: 100%;
-  height: auto;
+  height: 400px;
 }
 body {
   margin: 0;
@@ -29,7 +29,6 @@ span {
 }
 footer {
   padding: 30px;
-  font-size: .9rem;
 }
 
 header {
@@ -37,7 +36,7 @@ header {
   background-image: url("./img/shire.jpg");
   background-size: cover;
   width: 100%;
-  height: auto;
+  height: 400px;
 }
 ul li {
   list-style-type: none;
@@ -54,7 +53,7 @@ p {
 }
 .bagend h2 {
   font-family: cursive;
-  background-color: #DDA0DD;
+  background-color: #556B2F;
 }
 .bagend p {
   color: black;
