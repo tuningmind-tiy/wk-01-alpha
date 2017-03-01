@@ -45,6 +45,12 @@ ul li {
 p {
   border-radius: 10px;
 }
+h1 {
+  background-color: #556B2F;
+}
+.linear-gradient {
+  background: linear-gradient(to right, skyblue, darkgreen);
+}
 .bagend {
   background-attachment: fixed;
   background-position: center center;

@@ -48,7 +48,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
 
 _**Skilled Sorcerers**_
 
-- [ ] Use a background gradiant
+- [x] Use a background gradiant
 - [ ] Add and style a table with appropriate content (i.e. tabular data)
 
 _**Wise Wizards**_
