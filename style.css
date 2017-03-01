@@ -30,7 +30,6 @@ span {
 footer {
   padding: 30px;
 }
-
 header {
   display: block;
   background-image: url("./img/shire.jpg");
@@ -47,6 +46,17 @@ p {
 }
 h1 {
   background-color: #556B2F;
+}
+.cards {
+
+}
+.float-left {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+.float-right {
+  float: right;
+  margin: 0 0 10px 10px; 
 }
 .linear-gradient {
   background: linear-gradient(to right, skyblue, darkgreen);
