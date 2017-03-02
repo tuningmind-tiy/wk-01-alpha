@@ -43,14 +43,14 @@ Ensure that you:
 
 _**Skilled Sorcerers && Wise Wizards**_
 
-- [ ] Submit fully completed assignment before midnight tonight.
+- [x] Submit fully completed assignment before midnight tonight.
 
 ****
 
 _**EVERYONE**_
 
-- [ ] Submit what you have by midnight tonight _**and**_ ensure you submit a fully completed version by midnight tomorrow.
-- [ ] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
+- [x] Submit what you have by midnight tonight _**and**_ ensure you submit a fully completed version by midnight tomorrow.
+- [x] Ensure you submit both the GitHub repo url (e.g. https://github.com/[username]-tiy/wk-01-alpha) as your "Assignment URL" _and_ the GitHub pages url (e.g. https://[username]-tiy.github.io/wk-01-alpha) in the notes area.
 Additional Resources and Tools
 Learn CSS Layout
 CSS-Tricks: Position
