@@ -1,34 +1,10 @@
-body {
-  width: 100%;
-}
-div, h1, h2, h3, p, img, main, ul {
+body, div, h1, h2, h3, p, img, main, ul {
   margin: 0;
 }
-img {
-  width: 100%;
-  height: 400px;
-}
 body {
-  margin: 0;
+  width: 100%;
   border: 0;
   text-align: center;
-}
-div {
-  height: 500px;
-}
-p {
-  background-color: #556B2F;
-  opacity: 0.9;
-  width: 50%;
-  padding: 10px;
-  border: 1px solid black;
-}
-span {
-  font-style: italic;
-  font-size: 1.5em;
-}
-footer {
-  padding: 30px;
 }
 header {
   display: block;
@@ -37,81 +13,22 @@ header {
   width: 100%;
   height: 400px;
 }
-ul li {
-  list-style-type: none;
-  color: white;
+main {
+  position: relative;
 }
 p {
+  background-color: rgba(85, 107, 47, 0.5);
+  width: 30%;
+  padding: 10px;
+  border: 1px solid black;
   border-radius: 10px;
 }
-h1 {
-  background-color: #556B2F;
+span {
+  font-style: italic;
 }
-.cards {
-
-}
-.float-left {
-  float: left;
-  margin: 0 10px 10px 0;
-}
-.float-right {
-  float: right;
-  margin: 0 0 10px 10px; 
-}
-.linear-gradient {
-  background: linear-gradient(to right, skyblue, darkgreen);
-}
-.bagend {
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  background-image: url("./img/bag_end.png");
-}
-.bagend h2 {
-  font-family: cursive;
-  background-color: #556B2F;
-}
-.bagend p {
-  color: black;
-  font-family: fantasy;
-  font-size: 18px;
-}
-.bagend img {
-  border-radius: 50%;
-  width: 30%;
-  height: auto;
-  display: block;
-}
-.shire {
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  background-color: #D8BFD8;
-  background-image: url("./img/shire_map.jpg");
-  font-weight: 800;
-}
-.ring {
-  background-color: #FAEBD7;
-}
-.ring img {
-  width: 30%;
-  border-radius: 50%;
-}
-.gandalf {
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  background-image: url("./img/gandalf.png");
-}
-.gollum {
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  background-color: #6A5ACD;
-  background-image: url("./img/gollum_sm.jpeg");
-}
-#ring ul li {
-  color: black;
+ul li {
+  color: slategrey;
+  list-style-type: none;
 }
 a:visited {
   color: blue;
@@ -124,4 +41,60 @@ a:focus {
 }
 a:active {
   background-color: white;
+}
+footer {
+  padding: 40px;
+}
+h1,h2 {
+  background-color: #556B2F;
+  font-family: cursive;
+}
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+.cf:after {
+  clear: both;
+}
+.row {
+  position: absolute;
+}
+.cards {
+  height: 400px;
+  width: 30%;
+}
+.float-left {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+.float-right {
+  float: right;
+  margin: 0 0 10px 10px; 
+}
+.linear-gradient {
+  background: linear-gradient(to right, skyblue, darkolivegreen);
+}
+.fixed-effect {
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+.bagend {
+  background-image: url("./img/bag_end.png");
+}
+.bagend h2 {
+}
+.shire {
+  background-image: url("./img/shire_map.jpg");
+  font-weight: 800;
+}
+.ring {
+  background-image: url("./img/ring.png");
+}
+.gandalf {
+  background-image: url("./img/gandalf.png");
+}
+.gollum {
+  background-image: url("./img/gollum.jpeg");
 }

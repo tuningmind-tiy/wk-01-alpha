@@ -31,7 +31,7 @@ Ensure that you:
 - Make
   - [ ] small and frequent git commits
   - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
-- [ ] Ensure you've set the GitHub pages to use your "master branch".
+- [x] Ensure you've set the GitHub pages to use your "master branch".
 
 ****
 
