@@ -1,3 +1,9 @@
+----------------------------------------------
+view online at: 
+https://tuningmind-tiy.github.io/wk-01-alpha/
+----------------------------------------------
+TODO: mark the top of this file up
+
 Description
 
 Grouping HTML elements and working with layouts in CSS are two of the most important skills to learn. This assignment tests both of these skills.
@@ -25,12 +31,12 @@ Ensure that you:
     - [x] The right grouping has one or two buttons (e.g. a link to a non-existent log-in, and a link to a non-existent profile page)
 - [x] Use the **main** element to contain your main content.
 - [x] Use div elements to divide your content up into 5 logical groups which will be referred to as **cards**.
-- [ ] Position your cards so there are 3 cards in a top row and 2 in the bottom row (e.g. 3 columns).  _Do **not** use a table to position your cards!_
-- [ ] Use a footer element to display your personal information (e.g. your name, a link to your github profile, links to any of your social media forms, etc.).  Ensure your personal information is centered in the footer.
+- [x] Position your cards so there are 3 cards in a top row and 2 in the bottom row (e.g. 3 columns).  _Do **not** use a table to position your cards!_
+- [x] Use a footer element to display your personal information (e.g. your name, a link to your github profile, links to any of your social media forms, etc.).  Ensure your personal information is centered in the footer.
 
 - Make
-  - [ ] small and frequent git commits
-  - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
+  - [x] small and frequent git commits
+  - [x] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
 - [x] Ensure you've set the GitHub pages to use your "master branch".
 
 ****
